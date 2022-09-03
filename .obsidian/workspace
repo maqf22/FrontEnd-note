@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "251426c529cebc1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "de2f7f0b82595e65",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "A) Javascript进阶/a_函数/1. 内存管理.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9e53f4e7d1753602",
+    "type": "split",
+    "children": [
+      {
+        "id": "78e98bbaf93d691d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7618d608fe2384c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6ce0ea74cda6052e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a49fe94d3c80e510",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 363.5
+  },
+  "right": {
+    "id": "e272ce3d3c5decf3",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5446f18376e99ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b28ddd4f67e26de2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "A) Javascript进阶/a_函数/1. 内存管理.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fc8483a2f5f31c00",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "A) Javascript进阶/a_函数/1. 内存管理.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a1567702d5146bcd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a098bca506b1c7b5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "A) Javascript进阶/a_函数/1. 内存管理.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "de2f7f0b82595e65",
+  "lastOpenFiles": [
+    "A) Javascript进阶/a_函数/images/Pasted image 20220903104532.png",
+    "A) Javascript进阶/a_函数/1. 内存管理.md"
+  ]
+}
