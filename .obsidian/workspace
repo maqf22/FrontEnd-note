@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A) Javascript进阶/a_函数/6. 高阶函数.md",
+            "file": "A) Javascript进阶/a_函数/10. 深拷贝和浅拷贝.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A) Javascript进阶/a_函数/6. 高阶函数.md",
+                "file": "A) Javascript进阶/a_函数/10. 深拷贝和浅拷贝.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A) Javascript进阶/a_函数/6. 高阶函数.md",
+                "file": "A) Javascript进阶/a_函数/10. 深拷贝和浅拷贝.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A) Javascript进阶/a_函数/6. 高阶函数.md"
+                "file": "A) Javascript进阶/a_函数/10. 深拷贝和浅拷贝.md"
               }
             }
           }
@@ -130,12 +130,15 @@
   },
   "active": "de2f7f0b82595e65",
   "lastOpenFiles": [
+    "A) Javascript进阶/a_函数/9. underscore源码分析.md",
+    "A) Javascript进阶/a_函数/10. 深拷贝和浅拷贝.md",
+    "A) Javascript进阶/a_函数/8. 防抖和节流.md",
+    "A) Javascript进阶/a_函数/7. 函数柯里化.md",
+    "A) Javascript进阶/a_函数/6. 高阶函数.md",
     "A) Javascript进阶/a_函数/5. compose和pipe函数.md",
     "A) Javascript进阶/a_函数/4. 如何做好函数式编程.md",
     "A) Javascript进阶/a_函数/3. 函数式编程.md",
     "A) Javascript进阶/a_函数/2. 代码性能指标.md",
-    "A) Javascript进阶/a_函数/6. 高阶函数.md",
-    "A) Javascript进阶/a_函数/1. 内存管理.md",
-    "A) Javascript进阶/a_函数/images/Pasted image 20220903104532.png"
+    "A) Javascript进阶/a_函数/1. 内存管理.md"
   ]
 }
