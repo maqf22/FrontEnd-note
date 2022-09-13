@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "81117c95b07a29de",
+        "id": "e70139ed5b58a4b0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A) Javascript进阶/c_设计模式/3. 提高复用性.md",
+            "file": "B) 计算机网络/a_网络协议/5. Http协议详细讲解.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 349.5
   },
   "right": {
     "id": "e272ce3d3c5decf3",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A) Javascript进阶/c_设计模式/3. 提高复用性.md",
+                "file": "B) 计算机网络/a_网络协议/5. Http协议详细讲解.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A) Javascript进阶/c_设计模式/3. 提高复用性.md",
+                "file": "B) 计算机网络/a_网络协议/5. Http协议详细讲解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A) Javascript进阶/c_设计模式/3. 提高复用性.md"
+                "file": "B) 计算机网络/a_网络协议/5. Http协议详细讲解.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "81117c95b07a29de",
+  "active": "e70139ed5b58a4b0",
   "lastOpenFiles": [
-    "A) Javascript进阶/c_设计模式/2. 封装与对象.md",
-    "A) Javascript进阶/c_设计模式/6. 提高代码质量.md",
-    "A) Javascript进阶/c_设计模式/5. 提高可扩展性-模块层面.md",
-    "A) Javascript进阶/c_设计模式/4. 提高可扩展性-方法层面.md",
+    "B) 计算机网络/a_网络协议/6. 全栈角度看Http协议.md",
+    "B) 计算机网络/a_网络协议/5. Http协议详细讲解.md",
+    "B) 计算机网络/a_网络协议/4. Http入门和基础工具链.md",
+    "B) 计算机网络/a_网络协议/7. 加密和Https证书.md",
+    "B) 计算机网络/a_网络协议/3. DNS和CDN.md",
+    "B) 计算机网络/a_网络协议/2. TCPIP协议和互联网协议群.md",
+    "B) 计算机网络/a_网络协议/1. OSI七层模型.md",
     "A) Javascript进阶/c_设计模式/3. 提高复用性.md",
-    "A) Javascript进阶/c_设计模式/1. 设计模式概论.md",
-    "A) Javascript进阶/b_异步编程/11. 复杂异步场景下的解决方案Rxjs.md",
-    "A) Javascript进阶/b_异步编程/10. web worker多线程机制.md",
-    "A) Javascript进阶/b_异步编程/9. 手写Promise.md",
-    "A) Javascript进阶/a_函数/10. 深拷贝和浅拷贝.md"
+    "A) Javascript进阶/c_设计模式/6. 提高代码质量.md",
+    "A) Javascript进阶/c_设计模式/1. 设计模式概论.md"
   ]
 }
