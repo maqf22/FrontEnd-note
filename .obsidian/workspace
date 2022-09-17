@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "77fe06adba5a77b7",
+        "id": "c225c8d7f482c4c4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "B) 计算机网络/d_浏览器状态同步和路由/3. SSR和单页应用的分析.md",
+            "file": "B) 计算机网络/b_网络请求实战/1. RESTFUL约定和Postman工具.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 379.5
   },
   "right": {
     "id": "e272ce3d3c5decf3",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B) 计算机网络/d_浏览器状态同步和路由/3. SSR和单页应用的分析.md",
+                "file": "B) 计算机网络/b_网络请求实战/1. RESTFUL约定和Postman工具.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "B) 计算机网络/d_浏览器状态同步和路由/3. SSR和单页应用的分析.md",
+                "file": "B) 计算机网络/b_网络请求实战/1. RESTFUL约定和Postman工具.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "B) 计算机网络/d_浏览器状态同步和路由/3. SSR和单页应用的分析.md"
+                "file": "B) 计算机网络/b_网络请求实战/1. RESTFUL约定和Postman工具.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "77fe06adba5a77b7",
+  "active": "c225c8d7f482c4c4",
   "lastOpenFiles": [
+    "B) 计算机网络/e_工具链和其他/4. 实战b站爬虫.md",
+    "B) 计算机网络/e_工具链和其他/5. 移动端网络优化的指标和策略.md",
+    "B) 计算机网络/e_工具链和其他/3. web服务器和cabby.md",
+    "B) 计算机网络/e_工具链和其他/2. web调试工具whistle.md",
+    "B) 计算机网络/e_工具链和其他/1. 异步模块加载.md",
+    "B) 计算机网络/d_浏览器状态同步和路由/3. SSR和单页应用的分析.md",
     "B) 计算机网络/d_浏览器状态同步和路由/2. Session&Cookie&Storage和单点登录.md",
     "B) 计算机网络/d_浏览器状态同步和路由/1. 前端路由和服务器路由原理.md",
     "B) 计算机网络/c_网络安全与攻防/2. 常见网络安全攻防.md",
-    "B) 计算机网络/c_网络安全与攻防/1. 同源策略.md",
-    "B) 计算机网络/b_网络请求实战/5. 缓存、缓存清理与Http缓存.md",
-    "B) 计算机网络/b_网络请求实战/4. 实战websocket聊天程序.md",
-    "B) 计算机网络/b_网络请求实战/3. 实战文件上传.md",
-    "B) 计算机网络/b_网络请求实战/2. 实战Fetch和Promise相关架构.md",
-    "B) 计算机网络/b_网络请求实战/1. RESTFUL约定和Postman工具.md",
-    "B) 计算机网络/a_网络协议/8. UDP vs TCP，Http2.0和3.0.md"
+    "B) 计算机网络/c_网络安全与攻防/1. 同源策略.md"
   ]
 }
