@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c225c8d7f482c4c4",
+        "id": "89dbe763fb37aafc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "B) 计算机网络/b_网络请求实战/1. RESTFUL约定和Postman工具.md",
+            "file": "C) Vue/b_探索Vue的组件世界/3. 组件设计.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B) 计算机网络/b_网络请求实战/1. RESTFUL约定和Postman工具.md",
+                "file": "C) Vue/b_探索Vue的组件世界/3. 组件设计.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "B) 计算机网络/b_网络请求实战/1. RESTFUL约定和Postman工具.md",
+                "file": "C) Vue/b_探索Vue的组件世界/3. 组件设计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "B) 计算机网络/b_网络请求实战/1. RESTFUL约定和Postman工具.md"
+                "file": "C) Vue/b_探索Vue的组件世界/3. 组件设计.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c225c8d7f482c4c4",
+  "active": "89dbe763fb37aafc",
   "lastOpenFiles": [
-    "B) 计算机网络/e_工具链和其他/4. 实战b站爬虫.md",
-    "B) 计算机网络/e_工具链和其他/5. 移动端网络优化的指标和策略.md",
-    "B) 计算机网络/e_工具链和其他/3. web服务器和cabby.md",
+    "C) Vue/b_探索Vue的组件世界/1. 自定义指令.md",
+    "C) Vue/b_探索Vue的组件世界/3. 组件设计.md",
+    "C) Vue/b_探索Vue的组件世界/2. 双向绑定.md",
+    "C) Vue/a_初识Vue/5. 组件.md",
+    "C) Vue/a_初识Vue/4. 事件&样式.md",
+    "C) Vue/a_初识Vue/3. 数据.md",
+    "C) Vue/a_初识Vue/2. 模板.md",
+    "C) Vue/a_初识Vue/1. HelloVue.md",
     "B) 计算机网络/e_工具链和其他/2. web调试工具whistle.md",
-    "B) 计算机网络/e_工具链和其他/1. 异步模块加载.md",
-    "B) 计算机网络/d_浏览器状态同步和路由/3. SSR和单页应用的分析.md",
-    "B) 计算机网络/d_浏览器状态同步和路由/2. Session&Cookie&Storage和单点登录.md",
-    "B) 计算机网络/d_浏览器状态同步和路由/1. 前端路由和服务器路由原理.md",
-    "B) 计算机网络/c_网络安全与攻防/2. 常见网络安全攻防.md",
-    "B) 计算机网络/c_网络安全与攻防/1. 同源策略.md"
+    "B) 计算机网络/b_网络请求实战/1. RESTFUL约定和Postman工具.md"
   ]
 }
