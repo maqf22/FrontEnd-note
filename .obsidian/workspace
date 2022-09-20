@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C) Vue/b_探索Vue的组件世界/3. 组件设计.md",
+            "file": "C) Vue/b_探索Vue的组件世界/4. 组件通信.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C) Vue/b_探索Vue的组件世界/3. 组件设计.md",
+                "file": "C) Vue/b_探索Vue的组件世界/4. 组件通信.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C) Vue/b_探索Vue的组件世界/3. 组件设计.md",
+                "file": "C) Vue/b_探索Vue的组件世界/4. 组件通信.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C) Vue/b_探索Vue的组件世界/3. 组件设计.md"
+                "file": "C) Vue/b_探索Vue的组件世界/4. 组件通信.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "89dbe763fb37aafc",
   "lastOpenFiles": [
+    "C) Vue/b_探索Vue的组件世界/6. 组件复用.md",
     "C) Vue/b_探索Vue的组件世界/1. 自定义指令.md",
+    "C) Vue/b_探索Vue的组件世界/5. 插件.md",
+    "C) Vue/c_深入Vue源码分析/1. 响应式源码分析.md",
     "C) Vue/b_探索Vue的组件世界/3. 组件设计.md",
     "C) Vue/b_探索Vue的组件世界/2. 双向绑定.md",
     "C) Vue/a_初识Vue/5. 组件.md",
     "C) Vue/a_初识Vue/4. 事件&样式.md",
     "C) Vue/a_初识Vue/3. 数据.md",
-    "C) Vue/a_初识Vue/2. 模板.md",
-    "C) Vue/a_初识Vue/1. HelloVue.md",
-    "B) 计算机网络/e_工具链和其他/2. web调试工具whistle.md",
-    "B) 计算机网络/b_网络请求实战/1. RESTFUL约定和Postman工具.md"
+    "C) Vue/b_探索Vue的组件世界/4. 组件通信.md"
   ]
 }
