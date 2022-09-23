@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C) Vue/d_Vue生态及实践/5. Nuxt.md",
+            "file": "C) Vue/f_TypeScript基础/11. 函数.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C) Vue/d_Vue生态及实践/5. Nuxt.md",
+                "file": "C) Vue/f_TypeScript基础/11. 函数.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C) Vue/d_Vue生态及实践/5. Nuxt.md",
+                "file": "C) Vue/f_TypeScript基础/11. 函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C) Vue/d_Vue生态及实践/5. Nuxt.md"
+                "file": "C) Vue/f_TypeScript基础/11. 函数.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "89dbe763fb37aafc",
   "lastOpenFiles": [
-    "C) Vue/d_Vue生态及实践/2. VueRouter.md",
-    "C) Vue/d_Vue生态及实践/5. Nuxt.md",
-    "C) Vue/d_Vue生态及实践/4. SSR.md",
-    "C) Vue/d_Vue生态及实践/3. 实战.md",
-    "C) Vue/d_Vue生态及实践/1. Vuex.md",
-    "C) Vue/c_深入Vue源码分析/4. computed&watch源码分析.md",
-    "C) Vue/c_深入Vue源码分析/3. Diff算法分析.md",
-    "C) Vue/c_深入Vue源码分析/2. 异步更新队列（nextTick）源码分析.md",
-    "C) Vue/c_深入Vue源码分析/1. 响应式源码分析.md",
-    "C) Vue/b_探索Vue的组件世界/6. 组件复用.md"
+    "C) Vue/f_TypeScript基础/10. 泛型.md",
+    "C) Vue/f_TypeScript基础/11. 函数.md",
+    "C) Vue/f_TypeScript基础/9. 类型的窄化.md",
+    "C) Vue/f_TypeScript基础/8. TS常用类型.md",
+    "C) Vue/f_TypeScript基础/7. VueRollupTS环境实战.md",
+    "C) Vue/f_TypeScript基础/6. VueWebpackTS环境实战.md",
+    "C) Vue/f_TypeScript基础/5. ReactRollupTS环境实战.md",
+    "C) Vue/f_TypeScript基础/4. ReactWebpackTS环境实战.md",
+    "C) Vue/f_TypeScript基础/3. TS的HelloWorld和环境配置.md",
+    "C) Vue/f_TypeScript基础/2. TS介绍.md"
   ]
 }
