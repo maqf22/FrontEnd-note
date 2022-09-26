@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C) Vue/f_TypeScript基础/11. 函数.md",
+            "file": "C) Vue/i_Vue3的api解读/7. 生命周期钩子.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C) Vue/f_TypeScript基础/11. 函数.md",
+                "file": "C) Vue/i_Vue3的api解读/7. 生命周期钩子.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C) Vue/f_TypeScript基础/11. 函数.md",
+                "file": "C) Vue/i_Vue3的api解读/7. 生命周期钩子.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C) Vue/f_TypeScript基础/11. 函数.md"
+                "file": "C) Vue/i_Vue3的api解读/7. 生命周期钩子.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "89dbe763fb37aafc",
   "lastOpenFiles": [
-    "C) Vue/f_TypeScript基础/10. 泛型.md",
-    "C) Vue/f_TypeScript基础/11. 函数.md",
-    "C) Vue/f_TypeScript基础/9. 类型的窄化.md",
-    "C) Vue/f_TypeScript基础/8. TS常用类型.md",
-    "C) Vue/f_TypeScript基础/7. VueRollupTS环境实战.md",
-    "C) Vue/f_TypeScript基础/6. VueWebpackTS环境实战.md",
-    "C) Vue/f_TypeScript基础/5. ReactRollupTS环境实战.md",
-    "C) Vue/f_TypeScript基础/4. ReactWebpackTS环境实战.md",
-    "C) Vue/f_TypeScript基础/3. TS的HelloWorld和环境配置.md",
-    "C) Vue/f_TypeScript基础/2. TS介绍.md"
+    "C) Vue/i_Vue3的api解读/6. provide&inject.md",
+    "C) Vue/i_Vue3的api解读/5. effectScope.md",
+    "C) Vue/i_Vue3的api解读/4. computed.md",
+    "C) Vue/i_Vue3的api解读/3. watch.md",
+    "C) Vue/i_Vue3的api解读/2. ref和reactive.md",
+    "A) Javascript进阶/c_设计模式/4. 提高可扩展性-方法层面.md",
+    "A) Javascript进阶/c_设计模式/3. 提高复用性.md",
+    "A) Javascript进阶/c_设计模式/6. 提高代码质量.md",
+    "A) Javascript进阶/c_设计模式/5. 提高可扩展性-模块层面.md",
+    "A) Javascript进阶/c_设计模式/2. 封装与对象.md"
   ]
 }
