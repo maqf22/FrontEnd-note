@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C) Vue/i_Vue3的api解读/7. 生命周期钩子.md",
+            "file": "C) Vue/i_Vue3的api解读/8. ref和expose.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C) Vue/i_Vue3的api解读/7. 生命周期钩子.md",
+                "file": "C) Vue/i_Vue3的api解读/8. ref和expose.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C) Vue/i_Vue3的api解读/7. 生命周期钩子.md",
+                "file": "C) Vue/i_Vue3的api解读/8. ref和expose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C) Vue/i_Vue3的api解读/7. 生命周期钩子.md"
+                "file": "C) Vue/i_Vue3的api解读/8. ref和expose.md"
               }
             }
           }
@@ -130,6 +130,7 @@
   },
   "active": "89dbe763fb37aafc",
   "lastOpenFiles": [
+    "C) Vue/i_Vue3的api解读/7. 生命周期钩子.md",
     "C) Vue/i_Vue3的api解读/6. provide&inject.md",
     "C) Vue/i_Vue3的api解读/5. effectScope.md",
     "C) Vue/i_Vue3的api解读/4. computed.md",
@@ -138,7 +139,6 @@
     "A) Javascript进阶/c_设计模式/4. 提高可扩展性-方法层面.md",
     "A) Javascript进阶/c_设计模式/3. 提高复用性.md",
     "A) Javascript进阶/c_设计模式/6. 提高代码质量.md",
-    "A) Javascript进阶/c_设计模式/5. 提高可扩展性-模块层面.md",
-    "A) Javascript进阶/c_设计模式/2. 封装与对象.md"
+    "A) Javascript进阶/c_设计模式/5. 提高可扩展性-模块层面.md"
   ]
 }
