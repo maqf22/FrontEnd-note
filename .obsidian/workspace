@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A) Javascript进阶/b_异步编程/10. web worker多线程机制.md",
+            "file": "C) Vue/j_Vue3实战技巧/1. 组件封装.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 295
   },
   "right": {
     "id": "e272ce3d3c5decf3",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A) Javascript进阶/b_异步编程/10. web worker多线程机制.md",
+                "file": "C) Vue/j_Vue3实战技巧/1. 组件封装.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A) Javascript进阶/b_异步编程/10. web worker多线程机制.md",
+                "file": "C) Vue/j_Vue3实战技巧/1. 组件封装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A) Javascript进阶/b_异步编程/10. web worker多线程机制.md"
+                "file": "C) Vue/j_Vue3实战技巧/1. 组件封装.md"
               }
             }
           }
@@ -126,19 +126,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 218,
+    "collapsed": true
   },
   "active": "89dbe763fb37aafc",
   "lastOpenFiles": [
-    "C) Vue/i_Vue3的api解读/8. ref和expose.md",
-    "C) Vue/i_Vue3的api解读/7. 生命周期钩子.md",
+    "C) Vue/j_Vue3实战技巧/1. 组件封装.md",
+    "C) Vue/i_Vue3的api解读/3. watch.md",
     "C) Vue/i_Vue3的api解读/6. provide&inject.md",
     "C) Vue/i_Vue3的api解读/5. effectScope.md",
     "C) Vue/i_Vue3的api解读/4. computed.md",
-    "C) Vue/i_Vue3的api解读/3. watch.md",
     "C) Vue/i_Vue3的api解读/2. ref和reactive.md",
-    "A) Javascript进阶/c_设计模式/4. 提高可扩展性-方法层面.md",
-    "A) Javascript进阶/c_设计模式/3. 提高复用性.md",
-    "A) Javascript进阶/c_设计模式/6. 提高代码质量.md"
+    "C) Vue/i_Vue3的api解读/1. Vue Reactivty.md",
+    "C) Vue/i_Vue3的api解读/8. ref和expose.md",
+    "C) Vue/i_Vue3的api解读/7. 生命周期钩子.md",
+    "C) Vue/f_TypeScript基础/13. 模块.md"
   ]
 }
