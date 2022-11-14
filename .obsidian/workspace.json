@@ -4,35 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "1d522d25a47a168b",
+        "id": "3f37b144c50dbc13",
         "type": "tabs",
         "children": [
           {
-            "id": "1d81cd133b5b7548",
+            "id": "fb025fa9f685c8b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C) Vue/g_TypeScript实战/3. 模层开发.md",
+                "file": "D) React/a_React基础/1. 搭建环境.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e16d47b78f02faf2",
+            "id": "b6c509d2c93f030d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C) Vue/g_TypeScript实战/4. 服务层开发-令牌.md",
+                "file": "D) React/a_React基础/2. 组件和JSX.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9ae53227ffd12bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D) React/a_React基础/3. Props、列表渲染、条件渲染.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C) Vue/g_TypeScript实战/4. 服务层开发-令牌.md",
+                "file": "D) React/a_React基础/3. Props、列表渲染、条件渲染.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C) Vue/g_TypeScript实战/4. 服务层开发-令牌.md",
+                "file": "D) React/a_React基础/3. Props、列表渲染、条件渲染.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C) Vue/g_TypeScript实战/4. 服务层开发-令牌.md"
+                "file": "D) React/a_React基础/3. Props、列表渲染、条件渲染.md"
               }
             }
           }
@@ -147,19 +159,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218
+    "width": 218,
+    "collapsed": true
   },
-  "active": "e16d47b78f02faf2",
+  "active": "c9ae53227ffd12bc",
   "lastOpenFiles": [
+    "D) React/a_React基础/2. 组件和JSX.md",
+    "D) React/a_React基础/1. 搭建环境.md",
+    "C) Vue/a_初识Vue/1. HelloVue.md",
+    "C) Vue/g_TypeScript实战/4. 服务层开发-令牌.md",
     "C) Vue/g_TypeScript实战/3. 模层开发.md",
     "C) Vue/g_TypeScript实战/2. 创建项目和目录结构.md",
     "C) Vue/g_TypeScript实战/1. 架构.md",
     "C) Vue/j_Vue3实战技巧/4. Vite和项目结构.md",
     "C) Vue/j_Vue3实战技巧/3. 封装筛选、表格和请求逻辑.md",
-    "C) Vue/j_Vue3实战技巧/2. 封装DOM事件.md",
-    "C) Vue/j_Vue3实战技巧/1. 组件封装.md",
-    "C) Vue/i_Vue3的api解读/8. ref和expose.md",
-    "C) Vue/i_Vue3的api解读/7. 生命周期钩子.md",
-    "C) Vue/i_Vue3的api解读/6. provide&inject.md"
+    "C) Vue/j_Vue3实战技巧/2. 封装DOM事件.md"
   ]
 }
