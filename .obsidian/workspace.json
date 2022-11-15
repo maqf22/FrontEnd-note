@@ -4,47 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "3f37b144c50dbc13",
+        "id": "481127e63d2888c5",
         "type": "tabs",
         "children": [
           {
-            "id": "fb025fa9f685c8b2",
+            "id": "c6148ffd2bf104c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D) React/a_React基础/1. 搭建环境.md",
+                "file": "D) React/a_React基础/8. 生命周期.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b6c509d2c93f030d",
+            "id": "bc7de33223836226",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D) React/a_React基础/2. 组件和JSX.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9ae53227ffd12bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D) React/a_React基础/3. Props、列表渲染、条件渲染.md",
+                "file": "D) React/a_React基础/8. 生命周期.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D) React/a_React基础/3. Props、列表渲染、条件渲染.md",
+                "file": "D) React/a_React基础/8. 生命周期.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D) React/a_React基础/3. Props、列表渲染、条件渲染.md",
+                "file": "D) React/a_React基础/8. 生命周期.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D) React/a_React基础/3. Props、列表渲染、条件渲染.md"
+                "file": "D) React/a_React基础/8. 生命周期.md"
               }
             }
           }
@@ -162,17 +149,17 @@
     "width": 218,
     "collapsed": true
   },
-  "active": "c9ae53227ffd12bc",
+  "active": "c6148ffd2bf104c4",
   "lastOpenFiles": [
+    "D) React/a_React基础/7. State进阶.md",
+    "D) React/a_React基础/8. 生命周期.md",
+    "D) React/a_React基础/6. State.md",
+    "D) React/a_React基础/5. 事件处理.md",
+    "D) React/a_React基础/4. CssInReact.md",
+    "D) React/a_React基础/3. Props、列表渲染、条件渲染.md",
     "D) React/a_React基础/2. 组件和JSX.md",
     "D) React/a_React基础/1. 搭建环境.md",
     "C) Vue/a_初识Vue/1. HelloVue.md",
-    "C) Vue/g_TypeScript实战/4. 服务层开发-令牌.md",
-    "C) Vue/g_TypeScript实战/3. 模层开发.md",
-    "C) Vue/g_TypeScript实战/2. 创建项目和目录结构.md",
-    "C) Vue/g_TypeScript实战/1. 架构.md",
-    "C) Vue/j_Vue3实战技巧/4. Vite和项目结构.md",
-    "C) Vue/j_Vue3实战技巧/3. 封装筛选、表格和请求逻辑.md",
-    "C) Vue/j_Vue3实战技巧/2. 封装DOM事件.md"
+    "C) Vue/g_TypeScript实战/4. 服务层开发-令牌.md"
   ]
 }
