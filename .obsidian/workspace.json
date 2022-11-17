@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "357dc09b49786b72",
+            "id": "62db52dd99bb8321",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D) React/c_React原理/1. React VirtualDOM原理.md",
+                "file": "D) React/c_React原理/4. React Hooks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D) React/c_React原理/1. React VirtualDOM原理.md",
+                "file": "D) React/c_React原理/4. React Hooks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D) React/c_React原理/1. React VirtualDOM原理.md",
+                "file": "D) React/c_React原理/4. React Hooks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D) React/c_React原理/1. React VirtualDOM原理.md"
+                "file": "D) React/c_React原理/4. React Hooks.md"
               }
             }
           }
@@ -134,19 +134,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218
+    "width": 302.5
   },
-  "active": "357dc09b49786b72",
+  "active": "62db52dd99bb8321",
   "lastOpenFiles": [
+    "D) React/c_React原理/3. React New Component Lifecycle.md",
+    "D) React/c_React原理/2. React Reconciliation.md",
+    "D) React/c_React原理/4. React Hooks.md",
+    "D) React/c_React原理/1. React VirtualDOM原理.md",
     "D) React/b_React生态应用/2. Ant Design.md",
     "D) React/b_React生态应用/1. React Router.md",
     "D) React/a_React基础/9. React组件设计模式.md",
     "B) 计算机网络/d_浏览器状态同步和路由/1. 前端路由和服务器路由原理.md",
     "D) React/a_React基础/8. 生命周期.md",
-    "D) React/a_React基础/7. State进阶.md",
-    "D) React/a_React基础/6. State.md",
-    "D) React/a_React基础/5. 事件处理.md",
-    "D) React/a_React基础/4. CssInReact.md",
-    "D) React/a_React基础/3. Props、列表渲染、条件渲染.md"
+    "D) React/a_React基础/7. State进阶.md"
   ]
 }
