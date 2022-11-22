@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "481127e63d2888c5",
+        "id": "12945502fb35ed7b",
         "type": "tabs",
         "children": [
           {
-            "id": "ab447d9e91e58e3c",
+            "id": "3b4b6288833d25dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D) React/d_React状态管理/1. Redux入门.md",
+                "file": "E) Node.js进阶/a_Node.js基础/1. 安装.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "86d59bc6e9ea482a",
+            "id": "f168dd985eedce5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D) React/d_React状态管理/2. Redux进阶.md",
+                "file": "E) Node.js进阶/a_Node.js基础/2. Nodejs提供的原生API能力.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D) React/d_React状态管理/2. Redux进阶.md",
+                "file": "E) Node.js进阶/a_Node.js基础/2. Nodejs提供的原生API能力.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D) React/d_React状态管理/2. Redux进阶.md",
+                "file": "E) Node.js进阶/a_Node.js基础/2. Nodejs提供的原生API能力.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D) React/d_React状态管理/2. Redux进阶.md"
+                "file": "E) Node.js进阶/a_Node.js基础/2. Nodejs提供的原生API能力.md"
               }
             }
           }
@@ -149,17 +149,17 @@
     "direction": "horizontal",
     "width": 302.5
   },
-  "active": "86d59bc6e9ea482a",
+  "active": "f168dd985eedce5e",
   "lastOpenFiles": [
+    "E) Node.js进阶/a_Node.js基础/1. 安装.md",
     "D) React/d_React状态管理/1. Redux入门.md",
+    "D) React/d_React状态管理/2. Redux进阶.md",
     "D) React/c_React原理/4. React Hooks.md",
     "D) React/c_React原理/5. React new feature.md",
     "D) React/c_React原理/3. React New Component Lifecycle.md",
     "D) React/c_React原理/2. React Reconciliation.md",
     "D) React/c_React原理/1. React VirtualDOM原理.md",
     "D) React/b_React生态应用/2. Ant Design.md",
-    "D) React/b_React生态应用/1. React Router.md",
-    "D) React/a_React基础/9. React组件设计模式.md",
-    "B) 计算机网络/d_浏览器状态同步和路由/1. 前端路由和服务器路由原理.md"
+    "D) React/b_React生态应用/1. React Router.md"
   ]
 }
